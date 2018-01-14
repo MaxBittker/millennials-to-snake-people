@@ -1,6 +1,6 @@
-# Millennials to Snake People
+# Millennials to M*******ls People
 
-Browser extension that reveals the *real* truth behind Millennials.
+Browser extension that removes swear words from the internet
 
 
 ## Installation
